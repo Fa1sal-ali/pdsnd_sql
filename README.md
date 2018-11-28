@@ -16,10 +16,10 @@ Questions asked are mentioned below:
 ### Files used
 We used the movie rental database provided by Udacity.
 
-[Link to the Movie Rental Database](https://drive.google.com/open?id=1qYQgwwap-ZEVhffty0WjPM14L5kXkQwI)
+[Movie Rental Database](https://drive.google.com/open?id=1qYQgwwap-ZEVhffty0WjPM14L5kXkQwI)
 
 ### Presentation
-You can download the presentation for the project from the below link:
+You can view the presentation for the project from the below link:
 
 [Presentation](https://drive.google.com/open?id=1O4q6XcWOVqEZKv16ILescqWqB-taWrau)
 
